@@ -2,7 +2,7 @@
 
 ## Studiengang und Semester
 
-…Organisations- und IT-Sicherheit 3.te Semester
+…Organisations- und IT-Sicherheit B.SC 3.te Semester
 
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
